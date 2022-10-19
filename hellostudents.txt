@@ -1,2 +1,13 @@
 git status
-git inti
+make folder
+git init
+ls
+code
+make file-> name:Helloworld.txt
+write: hello students
+this is the first file...
+open vs terminal and type git status
+git add file_name
+git status
+git commit -m "My first commit"
+git status
