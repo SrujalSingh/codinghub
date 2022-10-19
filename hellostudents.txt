@@ -11,3 +11,15 @@ git add file_name
 git status
 git commit -m "My first commit"
 git status
+git log
+copy commit id
+git show commit_id
+change content of the file: hello guys welcome to the channel of lol army gamers
+git status
+git add helloworld.txt
+git status
+git commit -m "My second commit"
+git status
+to get file without edited->git log
+copy previous commit id 
+git show commit_id
